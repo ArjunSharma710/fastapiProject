@@ -6,3 +6,6 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 Thumbs.db
+test_ddl.py
+test_ddl.pypython
+test_users.py
