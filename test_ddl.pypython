@@ -1,0 +1,1 @@
+print('fresh connection:', cur2.fetchall())  test_ddl.py
